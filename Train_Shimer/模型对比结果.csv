@@ -1,2 +1,2 @@
-模型,准确率,宏平均F1
-序数回归(LogisticAT),0.6,0.449
+﻿Model,Accuracy,Precision,Recall,F1
+Ordinal Regression,0.6,0.534126984126984,0.6,0.534873949579832
