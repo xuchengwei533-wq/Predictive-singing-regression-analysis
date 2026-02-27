@@ -1,0 +1,10 @@
+﻿feature,coef,abs_coef,selected
+HighFreqNoiseRatio,0.7056595948389224,0.7056595948389224,True
+Jitter,-0.27353744569399674,0.27353744569399674,True
+CPP,-0.1789211944184732,0.1789211944184732,True
+H1H2,0.10730110087271422,0.10730110087271422,True
+Shimmer,0.0,0.0,False
+QValue,-0.0,0.0,False
+HNR,-0.0,0.0,False
+LowFreqEnergyRatio,-0.0,0.0,False
+SpectralSlope,0.0,0.0,False
